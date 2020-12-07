@@ -1,0 +1,4 @@
+﻿  std1Con.cpp
+C:\Users\직업능력개발훈련 401호_24번\Desktop\study\PNU_Shared\5.네트워크프로그래밍\WindowsNetworkProgram\std1Con\std1Con.cpp(37,11): warning C4244: '초기화 중': 'SOCKET'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\직업능력개발훈련 401호_24번\Desktop\study\PNU_Shared\5.네트워크프로그래밍\WindowsNetworkProgram\std1Con\std1Con.cpp(64,5): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  std1Con.vcxproj -> C:\Users\직업능력개발훈련 401호_24번\Desktop\study\PNU_Shared\5.네트워크프로그래밍\WindowsNetworkProgram\x64\Debug\std1Con.exe
